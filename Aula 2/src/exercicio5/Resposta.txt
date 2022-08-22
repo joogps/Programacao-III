@@ -1,0 +1,1 @@
+Tipos primitivos são analogos aos tipos de linguagens não-orientada a objetas, como o C, e portanto não possuem atributos ou métodos. Enquanto isso, as wrapper classes realizam esse mesmo trabalho ao tempo que incorporam métodos úteis, como o isEmpty da String, por exemplo.
