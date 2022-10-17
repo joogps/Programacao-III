@@ -44,4 +44,8 @@ public class Animal {
 	public void setEcossistema(String ecossistema) {
 		this.ecossistema = ecossistema;
 	}
+
+	public void caminha() {
+		System.out.println(getNome()+" caminhou");
+	}
 }
